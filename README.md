@@ -17,6 +17,9 @@ This repository contains the work completed during my internship at Mentorness a
    - Analysis of YouTube songs data to gain insights into performance, popularity, and user engagement.
    - Includes Tableau workbook, visualizations, and analysis report.
    - [Tableau Visualization](https://github.com/Codewithimisi/Mentorness/blob/main/songs%20analysis.twbx)
+  
+## Contact
+For more information on my projects and professional experience, visit my [LinkedIn profile](https://www.linkedin.com/in/imisioluwa-olabode)
 
 ## Acknowledgements
 Thanks to Mentorness for providing this valuable learning opportunity to enhance my data analysis skills.
