@@ -7,14 +7,16 @@ Excel, SQL and Tableau/Power BI.
 ## Tasks
 1. **Reel Task: Transaction Properties (ACID)**
    - Explanation of ACID properties (Atomicity, Consistency, Isolation, Durability) in transactions.
-   - [Sample Reel](https://www.youtube.com/playlist?list=PLFCZOMSDAHhp3GOb3OTBsD4go2X332p5X)
-
+   - [Sample Reel](https://github.com/Codewithimisi/Mentorness/blob/main/ACID%20PROPERTIES%20IN%20SQL%20TRANSACTIONS.mp4)
+     
 2. **Project 1: Hotel Reservation Analysis in SQL**
    - Analysis of hotel reservation data using SQL.
    - Includes SQL scripts and analysis report.
+     [SQL Code File](
 
 3. **Project 2: Songs Analysis in Power BI/Tableau**
    - Analysis of YouTube songs data to gain insights into performance, popularity, and user engagement.
    - Includes Tableau workbook, visualizations, and analysis report.
+     [Tableau Visualization](
 
 ## Repository Structure
