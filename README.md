@@ -12,7 +12,7 @@ Excel, SQL and Tableau/Power BI.
 2. **Project 1: Hotel Reservation Analysis in SQL**
    - Analysis of hotel reservation data using SQL.
    - Includes SQL scripts and analysis report.
-     [SQL Code File](
+     [SQL Code File](https://github.com/Codewithimisi/Mentorness/blob/main/SQL%20Code%20File.sql)
 
 3. **Project 2: Songs Analysis in Power BI/Tableau**
    - Analysis of YouTube songs data to gain insights into performance, popularity, and user engagement.
